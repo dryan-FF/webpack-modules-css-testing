@@ -1,0 +1,9 @@
+:global #container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.index {
+  max-width: 900px;
+  margin: 0 auto;
+}
