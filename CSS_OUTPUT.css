@@ -1,0 +1,62 @@
+.styling-button-module__button--3wLDd {
+  background: #368008;
+  border-radius: 2px;
+  color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  padding: 10px 18px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+  .styling-button-module__button--3wLDd:hover {
+    cursor: pointer;
+  }
+
+  .styling-button-module__button--3wLDd:link,
+  .styling-button-module__button--3wLDd:visited {
+    color: #fff;
+  }
+
+.pages-another-page-module__index--3nU3E {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.pages-another-page-module__linkButton--3ZK9X {
+
+  background-color: white;
+  color: green;
+}
+
+.pages-another-page-module__linkButton--3ZK9X:link,
+  .pages-another-page-module__linkButton--3ZK9X:visited {
+    color: green;
+  }
+#container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.pages-index-module__index--1D2ya {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.pages-page-after-index-module__index--2NGNP {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.pages-page-after-index-module__linkButton--2dGUL {
+
+  background-color: white;
+  color: blue;
+}
+
+.pages-page-after-index-module__linkButton--2dGUL:link,
+  .pages-page-after-index-module__linkButton--2dGUL:visited {
+    color: blue;
+  }
