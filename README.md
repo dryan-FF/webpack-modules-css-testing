@@ -1,0 +1,1 @@
+example package to demonstrate that webpack & `css-loader` along are not responsible for an issue with webpack. see https://github.com/dryan-FF/gatsby-css-modules-testing for more details
