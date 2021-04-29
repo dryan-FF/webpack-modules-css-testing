@@ -24,18 +24,6 @@ module.exports = {
                 localIdentContext: path.resolve(__dirname, "src"),
               }
             }
-          },
-          {
-            loader: "postcss-loader",
-            options: {
-              postcssOptions: {
-                plugins: [
-                  [
-                    "postcss-nested"
-                  ],
-                ],
-              },
-            }
           }
         ],
       },
